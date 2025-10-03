@@ -12,7 +12,6 @@ A simple and responsive calculator built with React. Supports basic arithmetic o
 ## Tech Stack
 
 - React
-- CSS (or styled-components, Tailwind – customize based on your project)
 
 ## Installation
 
